@@ -402,6 +402,134 @@
           40.55528705397575
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Mount Carmel Parish in New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.44428205490112,
+          40.49165850872727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Mount Virgin Parish in Middlesex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4997501373291,
+          40.571425164882605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Peace Parish in Fords"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3185830116272,
+          40.53049362118229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Peace Parish in North Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47219848632812,
+          40.44243998344433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Perpetual Help Parish in Bernardsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57234144210815,
+          40.724169079279605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of the Mount Parish in Warren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.51307535171507,
+          40.63733905457023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Victories Parish in Baptistown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.00705242156982,
+          40.52058509664245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Victories Parish in Sayreville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36022162437439,
+          40.458246081157874
+        ]
+      }
     }
   ]
 }
