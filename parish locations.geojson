@@ -530,6 +530,134 @@
           40.458246081157874
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parish of the Visitation in New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.449303150177,
+          40.48389857980941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Queenship of Mary Parish in Plainsboro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58823084831238,
+          40.33514455436579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sacred Heart Parish in South Amboy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29040908813477,
+          40.48067521206595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ss. Peter and Paul Parish in Great Meadows"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.91731643676758,
+          40.86919687357189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Ambrose Parish in Old Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.31592226028442,
+          40.396323080260274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Andrew Parish in Avenel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27991628646849,
+          40.57957424710189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Ann Parish in Hampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95314002037048,
+          40.70867782277458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Ann Parish in Raritan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.63520169258118,
+          40.5694366381855
+        ]
+      }
     }
   ]
 }
