@@ -16,6 +16,135 @@
           40.657136356920894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Assumption of the Blessed Virgin Mary Parish in Hackettstown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82891082763672,
+          40.85731807862057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blessed Sacrament Parish in Martinsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.56648349761963,
+          40.60334759495865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cathedral of St. Francis of Assisi Parish in Metuchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36325788497925,
+          40.54570015244303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Christ the Redeemer Parish in Manville",
+        "cluster": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58716869354248,
+          40.54088988041329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Church of the Sacred Heart Parish in South Plainfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.40876960754395,
+          40.58156247252444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Corpus Christi Parish in South River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.38334226608276,
+          40.43649540640561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Divine Mercy Parish in Carteret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22176599502563,
+          40.57880827563826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Good Shepherd Parish in Hopelawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29036617279053,
+          40.53599772407586
+        ]
+      }
     }
   ]
 }
