@@ -306,6 +306,102 @@
           40.28520583592069
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Czestochowa Parish in South Plainfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4164514541626,
+          40.573511424452896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Fatima Parish in Perth Amboy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27886486053467,
+          40.51211887592156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Fatima Parish in Piscataway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45889472961426,
+          40.57859640964248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Lourdes Parish in Milltown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4443142414093,
+          40.45711952989172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Lourdes Parish in Whitehouse Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77264881134033,
+          40.61040138975996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Our Lady of Mercy Parish in South Bound Brook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52897548675537,
+          40.55528705397575
+        ]
+      }
     }
   ]
 }
