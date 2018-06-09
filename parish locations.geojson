@@ -194,6 +194,118 @@
           40.37326094867175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Immaculate Conception Parish in Annandale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8796796798706,
+          40.63546647283823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Immaculate Conception Parish in Somerville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.62074995040894,
+          40.572354210381064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Immaculate Conception Parish in Spotswood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3926978111267,
+          40.3894592031029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mary, Mother of God Parish in Hillsborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.64980363845825,
+          40.51546307928278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Most Holy Name of Jesus Parish in Perth Amboy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.26695585250854,
+          40.52218360792194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Most Holy Redeemer Parish in Matawan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.26408052444458,
+          40.4139698373616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nativity of Our Lord Parish in Monroe Township"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47206974029541,
+          40.28520583592069
+        ]
+      }
     }
   ]
 }
