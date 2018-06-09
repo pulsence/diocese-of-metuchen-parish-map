@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Annunciation Parish in Bloomsbury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08178949356079,
+          40.657136356920894
+        ]
+      }
+    }
+  ]
+}
