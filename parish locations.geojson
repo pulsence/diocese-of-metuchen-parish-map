@@ -145,6 +145,55 @@
           40.53599772407586
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Holy Family Parish in New Brunswick",
+        "cluster": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.44183588027954,
+          40.48622420471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Holy Trinity Parish in Bridgewater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65441703796387,
+          40.56073206367894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Holy Trinity Parish in Helmetta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42919731140135,
+          40.37326094867175
+        ]
+      }
     }
   ]
 }
