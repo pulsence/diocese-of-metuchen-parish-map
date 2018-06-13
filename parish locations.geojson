@@ -1140,6 +1140,296 @@
           40.97077321168207
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Lawrence Parish in Laurence Harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2486846446991,
+          40.45158446015871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Magdalen de Pazzi Parish in Flemington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8669445514679,
+          40.5065842607946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Mary of Czestochowa Parish in Bound Brook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5411205291748,
+          40.563495155190815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Mary of Ostrabrama Parish in South River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.37770962715149,
+          40.449804650600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Mary Parish in Alpha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1548421382904,
+          40.666284112570466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Mary Parish in South Amboy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28314566612244,
+          40.48296830728693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Mary-Stony Hill Parish in Watchung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45653438568115,
+          40.630271819030455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Matthew the Apostle Parish in Edison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.39895272254944,
+          40.511156366971676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Matthias Parish in Somerset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50286149978636,
+          40.500820760504986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Patrick Parish and St. Rose of Lima in Belvidere",
+        "cluster": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.07837772369385,
+          40.82475406873611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Peter the Apostle Parish in New Brunswick",
+        "cluster": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.44625616073608,
+          40.4976226811945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Philip and St. James Parish in Phillipsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1912397146225,
+          40.68551960412497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Stanislaus Kostka Parish in Sayreville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36412155628204,
+          40.46641709408063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Stephen Protomartyr Parish in South River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.38513934612274,
+          40.45422143077794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Theodore Parish in Port Murray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90825593471527,
+          40.77489091042778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Thomas the Apostle Parish in Old Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35524344444275,
+          40.402990176693905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Church of St. Luke Parish in North Plainfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45653438568115,
+          40.61145206453583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Transfiguration of the Lord Parish in Highland Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42353785037993,
+          40.50038837604167
+        ]
+      }
     }
   ]
 }
