@@ -658,6 +658,102 @@
           40.5694366381855
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Anthony of Padua Parish in Port Reading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2536735534668,
+          40.565280100570035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Augustine of Canterbury Parish in Kendall Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53777313232422,
+          40.434780526885525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Bartholomew Parish in East Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42278146743774,
+          40.43210196089055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Bernadette Parish in Parlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.30286526679993,
+          40.45358464858879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Bernard of Clairvaux Parish in Bridgewater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.64758276939392,
+          40.59009324438551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Catherine of Siena Parish in Pittstown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95067238807678,
+          40.587852698116
+        ]
+      }
     }
   ]
 }
