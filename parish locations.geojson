@@ -754,6 +754,264 @@
           40.587852698116
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Cecelia Parish in Iselin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.32299256324768,
+          40.57482345281777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Cecilia Parish in Monmouth Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52220559120178,
+          40.38754699844336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Charles Borromeo Parish in Skillman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.67877149581909,
+          40.42216256870936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Edward the Confessor Parish in Milford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.09506106376648,
+          40.57045535801467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Elizabeth Ann Seton Parish in Three Bridges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77699398994446,
+          40.53074641210938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Elizabeth-St. Brigid Parish in Peapack",
+        "cluster": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65878367424011,
+          40.7131669987322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Frances Cabrini Parish in Piscataway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.49485778808594,
+          40.541566600578854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Helena Parish in Edison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35959935188293,
+          40.58456914379305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. James Parish in Basking Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.54740762710571,
+          40.70030860531061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. James Parish in Woodbridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28260922431946,
+          40.55315131548781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. James the Less Parish in Jamesburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43995833396912,
+          40.35532554397899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. John Neumann Parish in Califon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.853994846344,
+          40.71506179557237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. John Paul II Parish in Perth Amboy",
+        "cluster": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.26382303237915,
+          40.51580564679434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. John the Evangelist Parish in Dunellen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.46561098098755,
+          40.593702402874655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. John the Evangelist Parish in Lambertville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94452476501463,
+          40.36601869333551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. John Vianney Parish in Colonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.32117938995361,
+          40.600129970191254
+        ]
+      }
     }
   ]
 }
