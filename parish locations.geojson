@@ -1012,6 +1012,134 @@
           40.600129970191254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in Bound Brook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53194737434387,
+          40.56408199180061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in Carteret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22189474105835,
+          40.574187814959444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in High Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89595532417297,
+          40.668570855457794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in Hillsborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.59163188934326,
+          40.4968476135132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in North Plainfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42786693572998,
+          40.6228455306573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in Raritan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.63161826133727,
+          40.56807560429419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Joseph Parish in Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.99211251735687,
+          40.76134151295502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Jude Parish in Blairstown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0330001115799,
+          40.97077321168207
+        ]
+      }
     }
   ]
 }
